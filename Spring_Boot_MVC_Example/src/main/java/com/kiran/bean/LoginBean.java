@@ -2,6 +2,7 @@ package com.kiran.bean;
 
 public class LoginBean {
 
+	
 	private String userName;
 	private String password;
 
